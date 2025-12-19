@@ -1,30 +1,51 @@
-[Próximo →](03-listas.md)
+[← Anterior](01-introducao.md) | [Próximo →](03-listas.md)
+
 # Texto no Markdown
 
-## Parágrafos
-Basta escrever normalmente. 
+<!-- Seção definindo qual o objetivo do projeto -->
+## Objetivo
 
-Pulando uma linha você cria outro parágrafo.
+Aprender a formatar textos em Markdown  
+usando negrito, itálico, citações e parágrafos.
 
-## Negrito
-**Texto em negrito**
+## Parágrafos e Quebras de linha
 
-## Itálico
-*Texto em itálico*
+Para criar um novo parágrafo,  
+basta pular uma linha.
 
-## Negrito + Itálico
-***Texto forte***
+Isso aqui é outro parágrafo.
 
-## Texto riscado
-~~Texto removido~~ 
+Para quebrar a linha sem criar espaço extra,  
+use dois espaços no final da linha.  
+Ou use a tag `<br>`
 
-## Citação
-> Isso é uma citação.
+## Ênfase no texto
 
-> Pode ter  
-> várias linhas.
+**Negrito**  
+*Itálico*  
+***Negrito e itálico***  
+~~Texto riscado~~
 
-## Ênfase em palavras
-Markdown é **simples** e *eficiente*.
+Use a ênfase para destacar palavras importantes  
+sem exagerar.
+
+
+## Citações
+
+> Markdown é simples e eficiente.
+
+> Citações podem ter  
+> várias linhas  
+> organizadas.
+
+
+## Boas Práticas ao escrever 
+
+- Use frases curtas  
+- Pule linhas para respirar o texto  
+- Destaque apenas o necessário
+- Pense em quem vai ler
+
+---
 
 [← Anterior](01-introducao.md) | [Próximo →](03-listas.md)

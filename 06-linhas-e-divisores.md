@@ -1,14 +1,28 @@
-[Próximo →](07-comentarios.md)
+[← Anterior](05-codigo.md) | [Próximo →](07-comentarios.md)
+
 # Linhas e divisores
 
-```md
-# Linhas e divisores
+## Objetivo
 
-Texto acima
+Aprender a usar linhas horizontais  
+para separar seções e organizar o conteúdo.
+
+## Linha horizontal
+
+Texto acima da linha
 
 ---
+Texto abaixo da linha
 
-Texto abaixo
+Há três formas de criar uma linha:  
+
+```md
+--- → com hífen
+*** → com asteriscos
+——— → com travessão
+```
+
+---
 
 ## Separando seções
 
@@ -22,10 +36,36 @@ Conteúdo principal
 
 Conclusão
 
-## Uso correto
+<!-- Bastante usado em Apostilas -->
 
-- Separar assuntos
-- Simular páginas
-- Organizar apostilas
-```
+---
+
+## Visual de página
+
+Você pode usar linhas para  
+simular páginas de um PDF.
+
+---
+
+Nova seção
+
+## Boas Práticas
+
+- Não exagere nas linhas
+- Use para separar assuntos
+- Combine com títulos <!-- Alguns editores como o vscode já fazem isso automáticamente-->
+
+## Resumo
+
+- Linhas separam conteúdo
+- Ajudam na leitura
+- Dão visual profissional
+
+---
+
 [← Anterior](05-codigo.md) | [Próximo →](07-comentarios.md)
+
+<!-- Tarefa Rápida
+- Crie duas linhas com ---
+- Separe três blocos de texto
+- Teste no preview -->

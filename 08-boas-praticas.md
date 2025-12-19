@@ -1,25 +1,55 @@
-# Boas práticas
+[← Anterior](07-comentarios.md) | [← Voltar ao índice](README.md)
 
-## Organização
-- Um tema por arquivo
-- Usar numeração
+# Boas práticas em Markdown
+
+## Objetivo
+
+Aprender como escrever Markdown  
+de forma organizada, clara e profissional.
+
+## Organização dos arquivos
+
+- Um assunto por arquivo
+- Usar numeração para ordem
 - Pastas bem definidas
+- Evitar espaços e acentos desnecessários
+- Nomes simples e claros
 
-## Escrita
+## Escrita e leitura
+
 - Frases curtas
-- Títulos claros
+- Títulos objetivos
 - Espaçamento visual
+- Seções bem separadas
+- Pense na Interface
 
-## Padronização
+## Padronização de arquivos
+
 - Letras minúsculas
 - Hífens em nomes
 - Sem acentos
 
-## Estudo eficiente
-1. Escreva
-2. Visualize
-3. Teste
-4. Comente
-5. Refatore
+## Uso consciente
 
-[← Anterior](07-comentarios.md)
+- Não exagere no negrito
+- Use linhas apenas quando necessário
+- Comentários só para você
+- Código sempre em bloco
+
+## Método de estudo
+
+1. Leia o conteúdo
+2. Reescreva com suas palavras
+3. Teste no preview
+4. Quebre e corrija
+5. Revise depois
+
+## Conclusão
+
+Markdown é simples, mas poderoso.  
+Com organização e prática,  
+ele vira uma ótima ferramenta de estudo e documentação.
+
+---
+
+[← Anterior](07-comentarios.md) | [← Voltar ao índice](README.md)
